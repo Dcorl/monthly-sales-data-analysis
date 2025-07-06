@@ -4,7 +4,7 @@ PostgreSQL project analyzing two months of sales data to identify top-selling pr
 
 ## Contents
 - `DC_report.pdf` – The complete written data analysis report with SQL structure, business question breakdowns, and conclusions  
-- `sql_report_scripts.sql` – Contains all PostgreSQL code used (tables, functions, procedures, and triggers)
+- `sql_DC_report_scripts.sql` – Contains all PostgreSQL code used (tables, functions, procedures, and triggers)
 
 ## Features
 - Merges raw product and sales data into a unified detailed table  
