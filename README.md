@@ -24,7 +24,7 @@ This project is part of my professional portfolio to showcase practical SQL data
 
 ## How to Use
 1. Clone the repository  
-2. Open `sql_report_scripts.sql` in your PostgreSQL environment (e.g., pgAdmin)  
+2. Open `sql_DC_report_scripts.sql` in your PostgreSQL environment (e.g., pgAdmin)  
 3. Run the code to create and populate all necessary tables  
 4. View the results in summary tables or connect to Tableau for dashboards  
 5. Read `DC_report.pdf` for a complete walkthrough and explanation of the analysis  
