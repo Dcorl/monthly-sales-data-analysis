@@ -3,7 +3,7 @@
 PostgreSQL project analyzing two months of sales data to identify top-selling products, highest revenue categories, and best-performing sales channels. Includes reusable SQL functions, summary tables, and triggers for automated reporting. Ideal for showcasing data analysis and SQL skills.
 
 ## Contents
-- `report.pdf` – The complete written data analysis report with SQL structure, business question breakdowns, and conclusions  
+- `DC_report.pdf` – The complete written data analysis report with SQL structure, business question breakdowns, and conclusions  
 - `sql_report_scripts.sql` – Contains all PostgreSQL code used (tables, functions, procedures, and triggers)
 
 ## Features
@@ -27,4 +27,4 @@ This project is part of my professional portfolio to showcase practical SQL data
 2. Open `sql_report_scripts.sql` in your PostgreSQL environment (e.g., pgAdmin)  
 3. Run the code to create and populate all necessary tables  
 4. View the results in summary tables or connect to Tableau for dashboards  
-5. Read `report.pdf` for a complete walkthrough and explanation of the analysis  
+5. Read `DC_report.pdf` for a complete walkthrough and explanation of the analysis  
